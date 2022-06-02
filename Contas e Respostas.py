@@ -1,0 +1,5 @@
+print("O resultado de 20+36 é", 20+36)
+print("O resultado de 138-97 é", 138-97)
+print(238*3, "É o resultado de 238*3")
+print(760/4, "É o resultado de 760/4")
+print("O resultado de 267+358 é", 267+358)
